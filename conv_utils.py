@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-# @Project  :fancy_operations
-# @File     :conv_utils.py
-# @Date     :2020/12/30 下午8:02
-# @Author   :SYJ
-# @Email    :JuZiSYJ@gmail.com
-# @Software :PyCharm
--------------------------------------------------
-"""
 import cv2
 import numpy as np
 from PIL import Image
