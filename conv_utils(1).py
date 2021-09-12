@@ -84,7 +84,7 @@ class dct(nn.Module):
         return rgb
 
 
-# 暗通道先验计算单元
+
 def minpool(feat, ksize, stride=1):
     pad = (ksize - 1)// 2
     N, C, H, W = feat.size()
